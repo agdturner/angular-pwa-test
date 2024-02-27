@@ -3,7 +3,7 @@ Angular Service Worker Progressive Web App Test based on:
 https://angular.io/guide/service-worker-getting-started
 
 The PWA is to be available via:
-https://agdturner.github.com/angular-pwa-test/
+https://agdturner.github.io/angular-pwa-test/
 
 Steps taken
 1. Initialised repository with code from:
